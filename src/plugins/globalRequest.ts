@@ -15,7 +15,7 @@ import * as process from "process";
  */
 const request = extend({
   credentials: 'include', // 默认请求是否带上cookie
-  prefix: process.env.NODE_ENV === 'production' ? 'https://whynotgu.top': undefined
+  prefix: process.env.NODE_ENV === 'production' ? 'https://whynotgu.cn': undefined
   // requestType: 'form',
 });
 
