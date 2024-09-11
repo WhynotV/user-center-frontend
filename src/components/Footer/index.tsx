@@ -20,9 +20,15 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: 'Ant Design',
+          key: 'blog',
           title: 'Try for you',
-          href: 'https://ant.design',
+          href: 'https://whynotgu.top',
+          blankTarget: true,
+        },
+        {
+          key: 'blog',
+          title: '蜀ICP备2024098199号-1',
+          href: 'https://beian.miit.gov.cn',
           blankTarget: true,
         },
       ]}
